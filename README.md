@@ -4,4 +4,4 @@
 3. Uses Selenium 3.0.2 (A Python library for automation), and Google chrome webdriver.
 4. Working - Saves all the solutions of the user which got an "AC" verdict, in a directory (```/home/codeforces```)
 5. Extension support for Python, C++, and Java is available for now. Rest of the source codes are stores with a '.txt' extension. More language support to come later.
-6. Codeforces blog for the above crawler can be found on - ```http://codeforces.com/blog/entry/50884```
+6. Codeforces blog for the above crawler can be found on - http://codeforces.com/blog/entry/50884
